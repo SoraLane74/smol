@@ -3,3 +3,4 @@ name = "smol"
 version = "0.1.0"
 description = "smol is a smol agent"
 requires-python = ">=3.10"
+# handle the edge case from the last release
