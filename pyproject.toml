@@ -5,3 +5,4 @@ description = "smol is a smol agent"
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # guard against empty input
+# drop an unused branch
